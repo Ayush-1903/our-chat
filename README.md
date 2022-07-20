@@ -1,1 +1,1 @@
-This is a todo list app.
+This is a chatting app based on kotlin.
